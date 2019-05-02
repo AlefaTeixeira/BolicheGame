@@ -75,7 +75,7 @@ class Jogo
                                 \_/              
                                             "
     elsif pontuacaoPC > pontuacaoUser
-      puts "Ah, Dessa Vez o Jogador Virtual Ganhou!#{pontuacaoUser} < #{pontuacaoPC}"
+      puts "Ah, Desta Vez o Jogador Virtual Ganhou!#{pontuacaoUser} < #{pontuacaoPC}"
       puts" \n\n\n\n\n
       
       ___.   ___  , _ , _     ___         __.  _   __   ___  .___ 
